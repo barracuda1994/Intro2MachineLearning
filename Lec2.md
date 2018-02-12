@@ -13,7 +13,7 @@
 
 1. contour plot
 
-1. ##gradient descent## algorithm: 
+1. **gradient descent** algorithm: 
 	1. repeat updata theta 0 and theta 1 until convergence;
 	1. use learning rate;
 	1. need simultaneously update theta 0 and theta 1
